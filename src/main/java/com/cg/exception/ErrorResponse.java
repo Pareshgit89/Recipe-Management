@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 /**
  * This class for API ExceptionResponse data members
- * @author saemmadi
+ * @author parebhar
  *
  */
 public class ErrorResponse {
